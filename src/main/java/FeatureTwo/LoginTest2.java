@@ -6,6 +6,7 @@ public class LoginTest2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("LoginTest2");
+		System.out.println("New");
 
 	}
 
