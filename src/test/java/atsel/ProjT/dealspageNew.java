@@ -6,7 +6,8 @@ public class dealspageNew {
 		// TODO Auto-generated method stub
 		
 		System.out.println("DealsPageNew");
-
+	
+		System.out.print("*******************TT);
 	}
 
 }
