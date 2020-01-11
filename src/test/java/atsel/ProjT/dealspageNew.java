@@ -7,7 +7,7 @@ public class dealspageNew {
 		
 		System.out.println("DealsPageNew");
 	
-		System.out.print("*******************TT);
+		System.out.print("*******************TT");
 	}
 
 }
