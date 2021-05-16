@@ -9,6 +9,9 @@ public class dealspageNew {
 	
 		System.out.println ("*******************TT");
 		System.out.println("*******************AAAA");
+		
+		System.out.println ("*******************B1");
+		System.out.println("*******************B1");
 	}
 
 }
