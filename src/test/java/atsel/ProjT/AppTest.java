@@ -16,8 +16,11 @@ public class AppTest
      * @param testName name of the test case
      */
     public AppTest( String testName )
+    
     {
+  
         super( testName );
+        System.out.println("NEW NEW");
     }
 
     /**
